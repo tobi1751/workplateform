@@ -1,0 +1,1 @@
+hvor jeg lære om helle dinne her strukture
