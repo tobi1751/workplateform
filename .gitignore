@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+dist/
+build/
+
+# React Native builds
+android/
+ios/
+
+# IDE filer
+.vscode/
+.idea/
+.DS_Store
+*.iml
+
+# Miljøvariabler
+.env
+.env.local
+.env.*.local
+
+package.json
